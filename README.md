@@ -62,3 +62,7 @@
 ## Relaciones
 - `Handler` usa `Product` y `Auth`.
 - `Auth` gestiona una lista de `User`.
+
+## Referencia:
+
+OpenAI. (2024). ChatGPT (modelo GPT-4). 
