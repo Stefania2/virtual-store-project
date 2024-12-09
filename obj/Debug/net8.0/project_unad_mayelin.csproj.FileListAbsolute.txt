@@ -1,0 +1,14 @@
+C:\project_unad_mayelin\project_unad_mayelin\obj\Debug\net8.0\project_unad_mayelin.GeneratedMSBuildEditorConfig.editorconfig
+C:\project_unad_mayelin\project_unad_mayelin\obj\Debug\net8.0\project_unad_mayelin.AssemblyInfoInputs.cache
+C:\project_unad_mayelin\project_unad_mayelin\obj\Debug\net8.0\project_unad_mayelin.AssemblyInfo.cs
+C:\project_unad_mayelin\project_unad_mayelin\obj\Debug\net8.0\project_unad_mayelin.csproj.CoreCompileInputs.cache
+C:\project_unad_mayelin\project_unad_mayelin\bin\Debug\net8.0\project_unad_mayelin.exe
+C:\project_unad_mayelin\project_unad_mayelin\bin\Debug\net8.0\project_unad_mayelin.deps.json
+C:\project_unad_mayelin\project_unad_mayelin\bin\Debug\net8.0\project_unad_mayelin.runtimeconfig.json
+C:\project_unad_mayelin\project_unad_mayelin\bin\Debug\net8.0\project_unad_mayelin.dll
+C:\project_unad_mayelin\project_unad_mayelin\bin\Debug\net8.0\project_unad_mayelin.pdb
+C:\project_unad_mayelin\project_unad_mayelin\obj\Debug\net8.0\project_unad_mayelin.dll
+C:\project_unad_mayelin\project_unad_mayelin\obj\Debug\net8.0\refint\project_unad_mayelin.dll
+C:\project_unad_mayelin\project_unad_mayelin\obj\Debug\net8.0\project_unad_mayelin.pdb
+C:\project_unad_mayelin\project_unad_mayelin\obj\Debug\net8.0\project_unad_mayelin.genruntimeconfig.cache
+C:\project_unad_mayelin\project_unad_mayelin\obj\Debug\net8.0\ref\project_unad_mayelin.dll
